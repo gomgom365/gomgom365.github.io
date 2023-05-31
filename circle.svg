@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+
+<circle fill="#FFFFFF" cx="50" cy="50" r="48.5"/>
+
+
+<circle fill="none" stroke="#0082FF" stroke-width="2.7496" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="11.7175,11.7175" cx="50" cy="50" r="48.5">
+	
+	<animateTransform 
+	    attributeName = "transform"
+		attributeType="XML"
+		type="rotate"
+		from="0 50 50"
+		to="360 50 50"
+		dur="10s"
+		repeatCount="indefinite" />
+
+
+</circle>
+<circle fill="#0061FF" cx="50" cy="50" r="36"/>
+
+	<path fill="#FFFFFF" d="M31.571,62L31.571,62C30.151,62,29,60.849,29,59.429V40.571C29,39.151,30.151,38,31.571,38h0
+		c1.42,0,2.571,1.151,2.571,2.571v18.857C34.143,60.849,32.992,62,31.571,62z">
+		<animateTransform 
+		    attributeName = "transform"
+			attributeType="XML"
+			type="translate"
+			begin=".1"
+			
+			dur="1s"
+			values="0,6;0,-6;0,6"
+			repeatCount="indefinite" />
+	</path>
+	<path fill="#FFFFFF" d="M40.786,62L40.786,62c-1.42,0-2.571-1.151-2.571-2.571V40.571c0-1.42,1.151-2.571,2.571-2.571h0
+		c1.42,0,2.571,1.151,2.571,2.571v18.857C43.357,60.849,42.206,62,40.786,62z">
+			<animateTransform 
+		    attributeName = "transform"
+			attributeType="XML"
+			type="translate"
+			begin=".2"
+			
+			dur="1s"
+			values="0,6;0,-6;0,6"
+			repeatCount="indefinite" />
+	</path>
+
+	<path fill="#FFFFFF" d="M50,62L50,62c-1.42,0-2.571-1.151-2.571-2.571V40.571C47.429,39.151,48.58,38,50,38h0
+		c1.42,0,2.571,1.151,2.571,2.571v18.857C52.571,60.849,51.42,62,50,62z">
+			<animateTransform 
+		    attributeName = "transform"
+			attributeType="XML"
+			type="translate"
+			begin=".3"
+			
+			dur="1s"
+			values="0,6;0,-6;0,6"
+			repeatCount="indefinite" />
+	</path>
+
+	<path fill="#FFFFFF" d="M59.214,62L59.214,62c-1.42,0-2.571-1.151-2.571-2.571V40.571c0-1.42,1.151-2.571,2.571-2.571h0
+		c1.42,0,2.571,1.151,2.571,2.571v18.857C61.786,60.849,60.634,62,59.214,62z">
+			<animateTransform 
+		    attributeName = "transform"
+			attributeType="XML"
+			type="translate"
+			begin=".4"
+			
+			dur="1s"
+			values="0,6;0,-6;0,6"
+			repeatCount="indefinite" />
+	</path>
+
+	<path fill="#FFFFFF" d="M68.429,62L68.429,62c-1.42,0-2.571-1.151-2.571-2.571V40.571c0-1.42,1.151-2.571,2.571-2.571h0
+		C69.849,38,71,39.151,71,40.571v18.857C71,60.849,69.849,62,68.429,62z">
+			<animateTransform 
+		    attributeName = "transform"
+			attributeType="XML"
+			type="translate"
+			begin=".5"
+			
+			dur="1s"
+			values="0,6;0,-6;0,6"
+			repeatCount="indefinite" />
+	</path>
+
+</svg>
