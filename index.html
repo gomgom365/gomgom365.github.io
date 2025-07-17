@@ -939,7 +939,7 @@
                 var plateNum = parseInt(cutNum / maxNum); // 판수
                 var modNum = cutNum % maxNum; // 판에 들어가지 않는 나머지 판
                 var cutCost = 1000; // 재단비 1000원
-                var totalCUt = (Math.ceil((2 * Math.sqrt(modNum) - 2) + 2) + (Math.ceil((2 * Math.sqrt(maxNum) - 2) + 2) * plateNum)) * cutCost; // 기본 2,000원 +
+                var totalCUt = (Math.ceil((2 * Math.sqrt(modNum) - 2) + 2) + (Math.ceil((2 * Math.sqrt(maxNum) - 2) + 2) * plateNum)) * cutCost - 1000; // 기본 2,000원 +
                 return totalCUt;
             }
 
